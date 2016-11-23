@@ -26,4 +26,6 @@
     
     fcntl(): performs one of the operations described below on the open file descriptor fd
     
-    close(): closing a serial port
+    close(): closing a serial port
+    
+    
