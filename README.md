@@ -6,6 +6,7 @@
      fd = open(comPort, O_RDWR | O_NOCTTY | O_NDELAY | O_NONBLOCK);
      
      char *comPort : device file path
+     
      int fd:         create file descriptor
      
 2. Settings to "termios.h"  
